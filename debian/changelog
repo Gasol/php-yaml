@@ -1,0 +1,5 @@
+php-yaml (1.2.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Gasol Wu <gasol.wu@gmail.com>  Sun, 29 Nov 2015 06:18:17 +0000
